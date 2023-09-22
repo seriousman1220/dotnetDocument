@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T03:18:03.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="bqWTHPjwzV0d2uRIfCrc" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-22T03:38:54.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="BjjlV2rEXI86i3HUYucD" version="21.8.0" type="github">
   <diagram name="Page-1" id="lBZEjL-7u2HndfBsqRj2">
-    <mxGraphModel dx="2539" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2539" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,8 +61,8 @@
         <mxCell id="oadoQURwM-oeFqKWCIur-18" value="Chưa" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oadoQURwM-oeFqKWCIur-20" value="Găm chi tiết đơn vào bảng găm tồn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="oadoQURwM-oeFqKWCIur-20" value="Hiển thị chi tiết đơn &lt;br&gt;Găm chi tiết đơn vào bảng găm tồn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
