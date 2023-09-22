@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T02:56:30.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="S1PMpf1n-BN4vWmeygl_" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-22T03:04:50.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="su85Uqz_Y6OjGqeYWieY" version="21.8.0" type="github">
   <diagram name="Page-1" id="lBZEjL-7u2HndfBsqRj2">
     <mxGraphModel dx="2539" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,9 +24,9 @@
         <mxCell id="oadoQURwM-oeFqKWCIur-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oadoQURwM-oeFqKWCIur-2" target="OFiAfCi6nQqzRcwtdBv--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oadoQURwM-oeFqKWCIur-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oadoQURwM-oeFqKWCIur-2" target="oadoQURwM-oeFqKWCIur-8">
+        <mxCell id="oadoQURwM-oeFqKWCIur-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oadoQURwM-oeFqKWCIur-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-170" y="340" as="targetPoint" />
+            <mxPoint x="-160" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oadoQURwM-oeFqKWCIur-2" value="sửa đơn ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -38,8 +38,30 @@
         <mxCell id="oadoQURwM-oeFqKWCIur-7" value="Có" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-270" y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oadoQURwM-oeFqKWCIur-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="oadoQURwM-oeFqKWCIur-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oadoQURwM-oeFqKWCIur-9" target="OFiAfCi6nQqzRcwtdBv--2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-310" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-80" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oadoQURwM-oeFqKWCIur-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oadoQURwM-oeFqKWCIur-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oadoQURwM-oeFqKWCIur-9" value="Đơn đã duyệt chưa ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="300" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oadoQURwM-oeFqKWCIur-16" value="đã duyệt" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="490" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oadoQURwM-oeFqKWCIur-18" value="Chưa" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oadoQURwM-oeFqKWCIur-20" value="Găm chi tiết đơn vào bảng găm tồn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
