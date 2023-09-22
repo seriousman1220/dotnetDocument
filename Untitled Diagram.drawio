@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-22T04:07:16.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="yGC1bb-j2rNmENQmBWzs" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-22T04:08:17.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.36" etag="JexD2nTFmtalcZOJu0uH" version="21.8.0" type="github">
   <diagram name="Page-1" id="lBZEjL-7u2HndfBsqRj2">
     <mxGraphModel dx="2539" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -69,9 +69,9 @@
         <mxCell id="oadoQURwM-oeFqKWCIur-28" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oadoQURwM-oeFqKWCIur-26" target="oadoQURwM-oeFqKWCIur-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oadoQURwM-oeFqKWCIur-33" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oadoQURwM-oeFqKWCIur-26" target="oadoQURwM-oeFqKWCIur-34">
+        <mxCell id="oadoQURwM-oeFqKWCIur-33" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oadoQURwM-oeFqKWCIur-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="815" y="480" as="targetPoint" />
+            <mxPoint x="815" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oadoQURwM-oeFqKWCIur-26" value="Sửa danh sách vật tư" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -84,7 +84,7 @@
           <mxGeometry x="825" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oadoQURwM-oeFqKWCIur-32" value="Điều chỉnh số lượng trên dòng vật tư, thay đổi vật tư" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="500" y="300" width="200" height="50" as="geometry" />
+          <mxGeometry x="820" y="420" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oadoQURwM-oeFqKWCIur-46" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="oadoQURwM-oeFqKWCIur-34" target="oadoQURwM-oeFqKWCIur-45">
           <mxGeometry relative="1" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="312" y="515" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oadoQURwM-oeFqKWCIur-48" value="Có" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="525" width="80" height="40" as="geometry" />
+          <mxGeometry x="-30" y="515" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oadoQURwM-oeFqKWCIur-50" value="Không" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="390" y="430" width="80" height="40" as="geometry" />
